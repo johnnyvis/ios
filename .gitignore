@@ -27,7 +27,7 @@ project.xcworkspace
 *.jsbundle
 
 # CocoaPods
-/Pods/
+ios/Pods/
 
 # Large audio files (use external storage or Git LFS)
 assets/audio/
